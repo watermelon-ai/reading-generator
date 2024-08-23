@@ -17,4 +17,3 @@ pip install -r requirements.txt
 ```shell
 python -m examples.generate_twitter
 ```
-=======
