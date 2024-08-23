@@ -17,3 +17,18 @@ pip install -r requirements.txt
 ```shell
 python -m examples.generate_twitter
 ```
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/watermelon-ai/reading-generator.svg)](https://starchart.cc/watermelon-ai/reading-generator)
+
+## Creators
+
+- [@wj-Mcat](https://github.com/wj-Mcat) - Jingjing WU (吴京京)
+- [@1860](https://github.com/tianxin1860) - tianxin（田鑫）
+
+## Copyright & License
+
+- Code & Docs © 2024 watermelon-ai
+- Code released under the Apache-2.0 License
+- Docs released under Creative Commons
