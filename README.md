@@ -10,9 +10,9 @@ pip install -r requirements.txt
 
 ### 生成
 
-文章的内容为：`input.txt` 文件，内容输出到 `output.txt` 文件。
+将要生成的内容放到当前目录的 `input.txt` 文件中，内容输出到 `output.txt` 文件。
 
-### 使用
+### 执行
 
 ```shell
 python -m examples.generate_twitter
